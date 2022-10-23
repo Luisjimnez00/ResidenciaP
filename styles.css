@@ -1,0 +1,23 @@
+.t{text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.color{
+    color: #9C2449;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.margen{
+    margin-top: 10px;
+}
+
+
+.b_regresar{
+    color: #9C2449;
+    border-color: #9C2449;
+}
+
+.button{
+    color: #9C2449;
+    border-color: #9C2449; 
+}
